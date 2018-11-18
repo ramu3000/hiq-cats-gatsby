@@ -1,3 +1,8 @@
+## remember this project uses contentful and firebase
+You will need to have setup a firebase database with voting and contentful database with nice cat images.
+You can use unsplash for cat images
+Please PM if you want the datastructure.
+
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
