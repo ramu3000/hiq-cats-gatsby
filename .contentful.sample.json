@@ -1,0 +1,11 @@
+{
+  "development": {
+    "host": "preview.contentful.com",
+    "spaceId": "add contententful space id here",
+    "accessToken": "add management key here"
+  },
+  "production": {
+    "spaceId": "add contententful space id here",
+    "accessToken": "private key here"
+  }
+}
